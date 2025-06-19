@@ -10,7 +10,7 @@ If you use or reference this project, please cite it as:
 
 **Bhowmik, Sowgato Kumar**. *Cyber Education and Online Freelancing Website – HTML & CSS Project*. GitHub Repository: sowgato84/html.  
 Published via Zenodo – June 2025.  
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15527923.svg)](https://doi.org/10.5281/zenodo.15527923)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15669961.svg)](https://doi.org/10.5281/zenodo.15669961)
 
 ### 📘 APA Style Citation:
 > Bhowmik, S. K. (2025). *Cyber Education and Online Freelancing Website – HTML & CSS Project*. GitHub. https://doi.org/10.5281/zenodo.15527923
@@ -25,7 +25,7 @@ Published via Zenodo – June 2025.
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sowgato-kumar-bhowmik-0219a22b0)  
 - 📘 [Facebook](https://www.facebook.com/sowgato.kumar.bhowmik)  
 - 🎥 [YouTube](https://youtube.com/@sowgatokumarbhowmik9756?si=0jJTpWdolFA3lXwp)  
-- 📂 [Zenodo Projects](https://zenodo.org/me/uploads?q=&f=shared_with_me%3Afalse&l=list&p=1&s=10&sort=newest)  
+- 📂 [Zenodo Projects](https://zenodo.org/records/15630243)  
 - 🧑‍💻 [GitHub Personal Website](https://sowgato84.github.io/sowgato/)
 
 ---

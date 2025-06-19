@@ -8,12 +8,12 @@ This is an HTML & CSS project designed by **Sowgato Kumar Bhowmik (সৌগত 
 
 If you use or reference this project, please cite it as:
 
-**Bhowmik, Sowgato Kumar**. *Cyber Education and Online Freelancing Website – HTML & CSS Project*. GitHub Repository: sowgato84/html.  
+**Bhowmik, Sowgato Kumar**. *Cyber Education and Online Freelancing Website – HTML & CSS Project*. GitHub Repository: sowgato84/sowgato.  
 Published via Zenodo – June 2025.  
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15669961.svg)](https://doi.org/10.5281/zenodo.15669961)
 
 ### 📘 APA Style Citation:
-> Bhowmik, S. K. (2025). *Cyber Education and Online Freelancing Website – HTML & CSS Project*. GitHub. https://doi.org/10.5281/zenodo.15527923
+> Bhowmik, S. K. (2025). *Cyber Education and Online Freelancing Website – HTML & CSS Project*. GitHub. https://doi.org/10.5281/zenodo.15669961
 
 ---
 

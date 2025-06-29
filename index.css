@@ -19,6 +19,13 @@ a:hover {
 .round {
   border-radius: 50%;
 }
+.previous.round {
+  margin-left: 40px;
+}
+
+.next.round {
+  margin-left: 10px;
+}
 .topnav {
   background-color: #333;
   overflow: hidden;

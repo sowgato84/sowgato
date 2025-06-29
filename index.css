@@ -21,18 +21,19 @@ a:hover {
 }
 body {
   position: relative;
+  min-height: 200px; /* প্রয়োজন অনুযায়ী বাড়ান */
 }
 
 .previous.round {
   position: absolute;
   right: 60px;
-  top: 20px;
+  bottom: 20px; /* top এর বদলে bottom দিন */
 }
 
 .next.round {
   position: absolute;
   right: 10px;
-  top: 20px;
+  bottom: 20px;
 }
 .topnav {
   background-color: #333;

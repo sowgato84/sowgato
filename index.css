@@ -19,14 +19,20 @@ a:hover {
 .round {
   border-radius: 50%;
 }
-.previous.round, .next.round {
-  float: right;
-  margin-left: 10px;
+body {
+  position: relative;
 }
 
-.previous:not(.round), .next:not(.round) {
-  float: left;
-  margin-right: 10px;
+.previous.round {
+  position: absolute;
+  right: 60px;
+  top: 20px;
+}
+
+.next.round {
+  position: absolute;
+  right: 10px;
+  top: 20px;
 }
 .topnav {
   background-color: #333;
